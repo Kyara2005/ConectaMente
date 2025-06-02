@@ -84,3 +84,25 @@ footer {
     padding: 1rem;
     background-color: #caf0f8;
 }
+/* Estilo de informacion */
+.info {
+    background-color: #ffffff;
+    padding: 3rem 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.info h2 {
+    font-size: 2rem;
+    color: #0077b6;
+    margin-bottom: 1.5rem;
+}
+
+.info-content p {
+    font-size: 1.1rem;
+    color: #333;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    text-align: justify;
+}
